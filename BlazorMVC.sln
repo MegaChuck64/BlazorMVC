@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEnd", "FrontEnd\FrontEnd.csproj", "{AAFADD45-6142-445F-834D-B94B582EAE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEnd", "BackEnd\BackEnd.csproj", "{66D368F0-2FF8-4E76-97B6-9B33530FCE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLib", "SharedLib\SharedLib.csproj", "{A523B343-99F4-42E0-B2FF-B3030DA69E9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFADD45-6142-445F-834D-B94B582EAE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFADD45-6142-445F-834D-B94B582EAE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFADD45-6142-445F-834D-B94B582EAE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFADD45-6142-445F-834D-B94B582EAE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66D368F0-2FF8-4E76-97B6-9B33530FCE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D368F0-2FF8-4E76-97B6-9B33530FCE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D368F0-2FF8-4E76-97B6-9B33530FCE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D368F0-2FF8-4E76-97B6-9B33530FCE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A523B343-99F4-42E0-B2FF-B3030DA69E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A523B343-99F4-42E0-B2FF-B3030DA69E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A523B343-99F4-42E0-B2FF-B3030DA69E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A523B343-99F4-42E0-B2FF-B3030DA69E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8359CD5F-A067-4921-B210-9AAEBEC1EF8B}
+	EndGlobalSection
+EndGlobal
